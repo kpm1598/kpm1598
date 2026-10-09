@@ -50,11 +50,9 @@ An academic project focused on exploring the Data Encryption Standard (DES) and 
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kpm1598&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kpm1598&show_icons=true&theme=tokyonight&hide_border=true&hide=rank)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kpm1598&layout=compact&theme=tokyonight&hide_border=true)
-
----
 
 ## 🎯 Currently Working On
 
